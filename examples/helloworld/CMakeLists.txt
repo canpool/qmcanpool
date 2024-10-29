@@ -1,5 +1,3 @@
-project(helloworld VERSION 0.1 LANGUAGES CXX)
-
 set(PROJECT_SOURCES
     main.cpp
     qml.qrc
