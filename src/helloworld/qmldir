@@ -1,5 +1,5 @@
-module canpool.helloworld
-plugin helloworld
+module Canpool.HelloWorld
+plugin HelloWorld
 classname HelloworldPlugin
 typeinfo plugins.qmltypes
 designersupported

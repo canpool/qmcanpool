@@ -10,6 +10,6 @@
 
 void HelloworldPlugin::registerTypes(const char *uri)
 {
-    // @uri canpool.helloworld
+    // @uri Canpool.HelloWorld
     qmlRegisterType<HelloWorld>(uri, 0, 1, "HelloWorld");
 }

@@ -1,7 +1,7 @@
 import QtQuick 2.14
 import QtQuick.Window 2.14
 
-import canpool.helloworld 0.1
+import Canpool.HelloWorld 0.1
 
 Window {
     width: 640

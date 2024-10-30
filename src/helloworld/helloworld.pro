@@ -1,4 +1,4 @@
-TARGET = helloworld
+TARGET = HelloWorld
 
 include(../../qmake/qmplugin.pri)
 
