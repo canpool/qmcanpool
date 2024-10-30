@@ -10,4 +10,4 @@ HEADERS += \
 
 # qml
 QML_FILES += \
-    HelloWorldControls.qml
+    $$files(*.qml)
