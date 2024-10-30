@@ -1,0 +1,7 @@
+module canpool.helloworld
+plugin helloworld
+classname HelloworldPlugin
+typeinfo plugins.qmltypes
+designersupported
+
+HelloWorldControls 0.1 HelloWorldControls.qml
