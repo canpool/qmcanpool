@@ -6,4 +6,4 @@ include(helloworld.pri)
 
 DISTFILES = qmldir $$QML_FILES
 
-include(../../qmake/qminstall.pri)
+include($$QMPROJECT_DIR/qmake/qminstall.pri)
