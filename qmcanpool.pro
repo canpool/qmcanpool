@@ -3,6 +3,8 @@ CONFIG   += ordered
 
 SUBDIRS = \
     examples \
-    src
+    src \
+    tests
 
 examples.depends = src
+tests.depends = src
