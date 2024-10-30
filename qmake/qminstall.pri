@@ -3,6 +3,8 @@
 # SPDX-License-Identifier: MulanPSL-2.0
 #
 
+DISTFILES = qmldir $$QML_FILES
+
 !equals(_PRO_FILE_PWD_, $$DESTDIR) {
     copy_qmldir.target = $$DESTDIR/qmldir
     copy_qmldir.depends = $$_PRO_FILE_PWD_/qmldir
