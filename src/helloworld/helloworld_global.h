@@ -5,6 +5,8 @@
 #ifndef HELLOWORLD_GLOBAL_H
 #define HELLOWORLD_GLOBAL_H
 
+#include <qqml.h>
+
 #ifndef QML_ELEMENT
 #define QML_ELEMENT
 #endif
